@@ -1,0 +1,3 @@
+models/detection/best.pt
+results/patches/
+results/test_patches/
