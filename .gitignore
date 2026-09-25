@@ -1,3 +1,10 @@
-models/detection/best.pt
-results/patches/
-results/test_patches/
+# Model weights
+*.pt
+*.pth
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Generated results
+results/
